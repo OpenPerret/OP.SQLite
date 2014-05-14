@@ -1,4 +1,4 @@
-OPSQLite
+OP.SQLite
 ========
 
 OpenPerret SQLite
