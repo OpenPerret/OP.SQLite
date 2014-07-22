@@ -1,4 +1,4 @@
 OP.SQLite
 ========
 
-OpenPerret SQLite
+OpenPerret SQLite ORM.
